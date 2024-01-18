@@ -1,0 +1,16 @@
+{
+    "name": "printers",
+    "version": "1.0.0",
+    "description": "",
+    "type": "commonjs",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "node-thermal-printer": "4.4.1",
+        "@thiagoelg/node-printer": "0.6.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
